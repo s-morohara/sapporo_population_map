@@ -5,12 +5,6 @@
 * [e-stat 境界データ](https://www.e-stat.go.jp/gis/statmap-search?page=1&type=2&aggregateUnitForBoundary=A&toukeiCode=00200521&toukeiYear=2020&serveyId=A002005212020&prefCode=01&coordsys=1&format=shape&datum=2000)
 * [札幌市 町名・条丁目別世帯数及び男女別人口](https://www.city.sapporo.jp/toukei/jinko/juuki/juuki.html#jou-choume-5)
 
-# 動作環境
+# streamlit community cloud
 
-# python 3.10.6
-
-* geopandas 1.1.3
-* pandas 2.3.3
-* streamlit 1.57.0
-* plotly 6.7.0
-* numpy 2.2.6
+* [app](https://sapporopopulationmap-xpw5k5sfavu5ruunjta39s.streamlit.app/)
